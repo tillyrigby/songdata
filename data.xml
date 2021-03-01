@@ -1,0 +1,72 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<Records>
+	<song>
+		<title>Glorious</title>
+		<artist>Macklemore</artist>
+		<genre>Rap</genre>
+		<year>2017</year>
+	</song>
+	<song>
+		<title>No Excuses</title>
+		<artist>Meghan Trainor</artist>
+		<genre>Pop</genre>
+		<year>2018</year>
+	</song>
+	<song>
+		<title>When You Love Someone</title>
+		<artist>Lukas Graham</artist>
+		<genre>Pop</genre>
+		<year>2018</year>
+	</song>
+	<song>
+		<title>What Do I Know</title>
+		<artist>Ed Sheeran</artist>
+		<genre>Pop</genre>
+		<year>2017</year>
+	</song>
+	<song>
+		<title>Memories</title>
+		<artist>Maroon 5</artist>
+		<genre>Pop</genre>
+		<year>2019</year>
+	</song>
+	<song>
+		<title>Old Town Road</title>
+		<artist>Lil Nas X</artist>
+		<genre>Country</genre>
+		<year>2019</year>
+	</song>
+	<song>
+		<title>When It Rains It Pours</title>
+		<artist>Luke Combs</artist>
+		<genre>Country</genre>
+		<year>2017</year>
+	</song>
+	<song>
+		<title>Take Me Home, Country Roads</title>
+		<artist>John Denver</artist>
+		<genre>Country</genre>
+		<year>1971</year>
+	</song>
+	<song>
+		<title>Good Old Days</title>
+		<artist>Macklemore</artist>
+		<genre>Rap</genre>
+		<year>2017</year>
+	</song>
+	<song>
+		<title>Lose Yourself</title>
+		<artist>Eminem</artist>
+		<genre>Rap</genre>
+		<year>2002</year>
+	</song>
+
+
+
+
+
+
+
+</Records>

@@ -1,0 +1,50 @@
+records {
+	font-size: 80%;
+	display: block;
+	margin: 0px;
+	font-family: Verdana;
+}
+
+song {
+	display: block;
+	border-bottom: 1px solid #FFFFFF;
+	margin: 0px;
+	padding: 8px 30px;
+	background-color: #ADD8E6;
+	color: #FFFFFF;
+}
+
+song title {
+	display: block;
+	font-weight: 700; 
+	font-size: 150%;
+}
+song artist:before {
+	content: "Artist: "; 
+	color: #111111; 
+	font-weight: 700;
+}
+
+song artist {
+	display: block;
+}
+
+song genre:before {
+	content: "Genre: "; 
+	color: #111111; 
+	font-weight: 700;
+}
+
+song genre {
+	display: block;
+}
+
+song year:before {
+	content: "Year: "; 
+	color: #111111; 
+	font-weight: 700;
+}
+
+song year {
+	display: block;
+}
